@@ -1,5 +1,7 @@
 # Innovedex 2025 รางวัล 🏅 ระดับเหรียญทอง 🏅
 
+<img src="inno.jpg" width="100%">
+
 ## วิธีการติดตั้งและใช้งาน YOLOv8, PyZMQ, Arduino Firmata ขั้นตอนการตั้งค่าระบบการตรวจจับวัตถุด้วย YOLOv8, การสื่อสารข้อมูลผ่าน PyZMQ และการเชื่อมต่อควบคุมบอร์ด Arduino ด้วย PyFirmata2
 
 ---
