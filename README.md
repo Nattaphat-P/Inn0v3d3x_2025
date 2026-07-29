@@ -7,7 +7,7 @@
 ## 📋 สารบัญ (Table of Contents)
 1. [การเตรียม Virtual Environment บน Windows](#1-การเตรียม-virtual-environment-บน-windows)
 2. [การเตรียม Dataset และเทรนโมเดล YOLOv8 บน Google Colab](#2-การเตรียม-dataset-และเทรนโมเดล-yolov8-บน-google-colab)
-3. [การรัน Object Detection บนเครื่อง Local](#3-การรัน-object-detection-บนเครื่อง-local)ย
+3. [การรัน Object Detection บนเครื่อง Local](#3-การรัน-object-detection-บนเครื่อง-local)
 4. [การรับ-ส่งข้อมูลด้วย PyZMQ (Publish-Subscribe Pattern)](#4-การรับ-ส่งข้อมูลด้วย-pyzmq-publish-subscribe-pattern)
 5. [การตั้งค่า Arduino สำหรับควบคุมด้วย PyFirmata2](#5-การตั้งค่า-arduino-สำหรับควบคุมด้วย-pyfirmata2)
 
