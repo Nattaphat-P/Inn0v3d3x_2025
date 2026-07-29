@@ -66,6 +66,7 @@ pip list
 5. คัดลอก Snippet Code / API Key สำหรับดึง Dataset
 
 ### 2.2 กระบวนการเทรนบน Google Colab
+[Train_Custom_YoloV8.ipynb](https://github.com/Nattaphat-P/Inn0v3d3x_2025/blob/main/Train_Custom_YoloV8.ipynb)
 1. เปิด [Google Colab](https://colab.research.google.com/) แล้วกด **Connect** (แนะนำให้เปลี่ยน Runtime เป็น GPU เช่น T4 GPU)
 2. ติดตั้ง Library และสร้างโฟลเดอร์รองรับ Dataset:
    ```bash
@@ -95,7 +96,7 @@ pip list
 
 ### 3.1 การเตรียมไฟล์และโค้ด
 1. นำไฟล์ `best.pt` มาวางไว้ในโฟลเดอร์โปรเจกต์ Local
-2. คัดลอกโค้ดสคริปต์ตรวจจับวัตถุจากตัวอย่าง: [custom_model_detection.py](https://github.com/Nattaphat-P/Inn0v3d3x_2025/blob/main/Train_Custom_YoloV8.ipynb)
+2. คัดลอกโค้ดสคริปต์ตรวจจับวัตถุจากตัวอย่าง: [test_detect.py](https://github.com/Nattaphat-P/Inn0v3d3x_2025/blob/main/test_detect.py)
 3. เปิด VS Code จาก PowerShell (โดยที่ venv ยัง active อยู่):
    ```powershell
    code .
