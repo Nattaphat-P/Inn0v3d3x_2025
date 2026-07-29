@@ -93,7 +93,7 @@ pip list
 
 ### 3.1 การเตรียมไฟล์และโค้ด
 1. นำไฟล์ `best.pt` มาวางไว้ในโฟลเดอร์โปรเจกต์ Local
-2. คัดลอกโค้ดสคริปต์ตรวจจับวัตถุจากตัวอย่าง: [custom_model_detection.py]([https://github.com/chacharin/learn_python_yolo/blob/main/custom_model_detection.py](https://github.com/Nattaphat-P/Inn0v3d3x_2025/blob/main/Train_Custom_YoloV8.ipynb))
+2. คัดลอกโค้ดสคริปต์ตรวจจับวัตถุจากตัวอย่าง: [custom_model_detection.py](https://github.com/Nattaphat-P/Inn0v3d3x_2025/blob/main/Train_Custom_YoloV8.ipynb)
 3. เปิด VS Code จาก PowerShell (โดยที่ venv ยัง active อยู่):
    ```powershell
    code .
